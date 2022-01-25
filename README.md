@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
-  <img src="https://img.shields.io/badge/CA8B9CC?style=flat-square&logo=C&logoColor=White"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"></a>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=White"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Canihelpme&show_icons=true&theme=radical)
 
