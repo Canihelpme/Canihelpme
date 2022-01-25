@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"></a>
-<h3>Language and Tools </h3>
+<h3> ⚡Language and Tools⚡ </h3>
 
 <br>
 
