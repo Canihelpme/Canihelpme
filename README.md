@@ -1,5 +1,5 @@
-#__ Hi there__ 👋
-##__Welcome to Donghyun's github!__
+#Hi there 👋
+##Welcome to Donghyun's github!
 
 <!--
 **Canihelpme/Canihelpme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
