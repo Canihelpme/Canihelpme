@@ -36,6 +36,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Intellij IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 </p>
+<P>
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
+</p>
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/>
