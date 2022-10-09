@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/Intellij IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-000000.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+
 </p>
 <P>
   <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
