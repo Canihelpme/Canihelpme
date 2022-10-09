@@ -55,11 +55,3 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Canihelpme&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Canihelpme&hide=javascript,jupyter%20notebook,css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-https://img.shields.io/github/languages/count/beygee/survive
-https://img.shields.io/github/languages/top/beygee/survive
-https://img.shields.io/github/languages/code-size/beygee/survive
-https://img.shields.io/github/issues-closed/beygee/survive
-
-
-
